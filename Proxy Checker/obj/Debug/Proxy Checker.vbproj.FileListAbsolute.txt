@@ -1,0 +1,11 @@
+c:\users\kevin\documents\visual studio 2015\Projects\Proxy Checker\Proxy Checker\bin\Debug\Proxy Checker.exe.config
+c:\users\kevin\documents\visual studio 2015\Projects\Proxy Checker\Proxy Checker\bin\Debug\Proxy Checker.exe
+c:\users\kevin\documents\visual studio 2015\Projects\Proxy Checker\Proxy Checker\bin\Debug\Proxy Checker.pdb
+c:\users\kevin\documents\visual studio 2015\Projects\Proxy Checker\Proxy Checker\bin\Debug\Proxy Checker.xml
+c:\users\kevin\documents\visual studio 2015\Projects\Proxy Checker\Proxy Checker\obj\Debug\Proxy Checker.vbprojResolveAssemblyReference.cache
+c:\users\kevin\documents\visual studio 2015\Projects\Proxy Checker\Proxy Checker\obj\Debug\Proxy_Checker.Form1.resources
+c:\users\kevin\documents\visual studio 2015\Projects\Proxy Checker\Proxy Checker\obj\Debug\Proxy_Checker.Resources.resources
+c:\users\kevin\documents\visual studio 2015\Projects\Proxy Checker\Proxy Checker\obj\Debug\Proxy Checker.vbproj.GenerateResource.Cache
+c:\users\kevin\documents\visual studio 2015\Projects\Proxy Checker\Proxy Checker\obj\Debug\Proxy Checker.exe
+c:\users\kevin\documents\visual studio 2015\Projects\Proxy Checker\Proxy Checker\obj\Debug\Proxy Checker.xml
+c:\users\kevin\documents\visual studio 2015\Projects\Proxy Checker\Proxy Checker\obj\Debug\Proxy Checker.pdb
